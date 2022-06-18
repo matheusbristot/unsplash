@@ -59,8 +59,8 @@ dependencies {
 
     implementation "io.insert-koin:koin-android:$koin"
 
-    testImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:$couroutines"
-    androidTestImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:$couroutines"
+    testImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutines"
+    androidTestImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutines"
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
